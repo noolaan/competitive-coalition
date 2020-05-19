@@ -1,0 +1,29 @@
+{
+  "name": "ceres",
+  "version": "2.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.1",
+    "com.izaakschroeder.trueskill": "0.0.2",
+    "common-tags": "^1.7.2",
+    "discord.js": "github:discordjs/discord.js",
+    "escape-string-regexp": "^1.0.5",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "i": "^0.3.6",
+    "moment": "^2.22.1",
+    "npm": "^6.0.1",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "rethinkdbdash": "^2.3.31",
+    "snekfetch": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nolan",
+  "license": "ISC"
+}
